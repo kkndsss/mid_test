@@ -2,5 +2,6 @@ streamlit
 python-dotenv
 langchain
 langchain-upstage
-transformers
+transformers>=4.30.0
+tokenizers>=0.21.0
 torch
